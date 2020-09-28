@@ -354,3 +354,6 @@ MigrationBackup/
 
 # Xamarin
 Resource.designer.cs
+
+# Has secrets/keys
+google-services.json
