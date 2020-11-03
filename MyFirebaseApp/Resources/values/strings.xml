@@ -2,5 +2,5 @@
     <string name="app_name">MyFirebaseApp</string>
     <string name="action_settings">Settings</string>
     <!-- Increment between releases-->
-    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">00000000000000000000000000000000</string>
 </resources>
